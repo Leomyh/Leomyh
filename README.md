@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1> <strong>Hey! Nice to see you!👋 </strong></h1>
+<pre>
+<p>Welcome to my page! </br> I'm Leo,from 🇨🇳 <b>China</b>, currently living in 🇮🇹 <b>Milan, Italy</b>.</p>
+<p>Now : I'm studying in <strong> CSE</strong> at <strong>Politecnico di Milano. </strong></p>
+</pre> 
 
-<!--
-**Leomyh/Leomyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
 
-Here are some ideas to get you started:
+### ⭐️ &nbsp;Github Star
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Leomyh&count_private=true&show_icons=true"/><img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leomyh&layout=compact"/>
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:yanghao.mao@mail.polimi.it"><img alt="Email" src="https://img.shields.io/badge/Email-yanghao.mao@mail.polimi.it-blue?style=flat-square&logo=microsoft outlook"></a>
+
+
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/Leomyh/count.svg" />
